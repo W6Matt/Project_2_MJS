@@ -1,0 +1,3 @@
+/Users/msando/CLionProjects/Project-2_MJS/cmake-build-debug/CMakeFiles/Project_2_MJS.dir
+/Users/msando/CLionProjects/Project-2_MJS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/msando/CLionProjects/Project-2_MJS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
